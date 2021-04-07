@@ -1,0 +1,37 @@
+{
+  "name": "ip-rest-api-jonathanekwempu-",
+  "version": "1.0.0",
+  "description": "Trillion IP Address Management REST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onyii5119/ip-rest-api-JonathanEkwempu-.git"
+  },
+  "keywords": [
+    "Trillion",
+    "IP",
+    "Address",
+    "Management",
+    "CRUD",
+    "Rest",
+    "API",
+    "Jonathan",
+    "Ekwempu"
+  ],
+  "author": "Jonathan Ekwempu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onyii5119/ip-rest-api-JonathanEkwempu-/issues"
+  },
+  "homepage": "https://github.com/onyii5119/ip-rest-api-JonathanEkwempu-#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ip": "^1.1.5"
+  }
+}
